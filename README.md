@@ -1,6 +1,6 @@
 # iobrokerscripthelper
 
-This product contains JavaScript source code files, that might help you to write scripts for [ioBroker](https://github.com/ioBroker/ioBroker)
+This project contains JavaScript source code files, that might help you to write scripts for [ioBroker](https://github.com/ioBroker/ioBroker)
 
 ## PTM216Z
 
